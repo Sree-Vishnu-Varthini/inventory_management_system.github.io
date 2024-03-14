@@ -1,0 +1,24 @@
+.carousel-container {
+    width: 100%; 
+    margin: auto; 
+  }
+
+  .card1{
+    display:flex;
+    justify-content: space-around;
+    padding: 30px;
+    background-color: #660763;
+    border-radius: 10px;
+    
+  }
+
+  slider{
+    height:40%;
+  }
+
+  .ghy{
+    margin-top: 80px;
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-bottom: 15px;
+  }

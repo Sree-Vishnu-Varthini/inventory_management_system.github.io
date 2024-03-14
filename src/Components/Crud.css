@@ -1,0 +1,38 @@
+.App2 {
+    margin-top: 100px;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+   button{
+    width: 200px;
+    background-color: #660763;
+    font-size: 17px;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+  }
+
+  input{
+    width: 200px;
+    background-color: white;
+    font-size: 17px;
+    margin: 15px;
+    border-radius: 15px;
+    padding: 5px;
+    color: black;
+  }
+  
+  .food{
+    padding: 30px; 
+    width: 1200px;
+    height: 350px;
+    border: 1px solid black;
+    margin: 10px;
+    background-color: #E1D89F;
+    border-radius: 15px;
+  }
